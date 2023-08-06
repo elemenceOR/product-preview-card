@@ -29,8 +29,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: https://github.com/elemenceOR/Results-summery/tree/main
-- Live Site URL: https://main--extraordinary-horse-0135e1.netlify.app/
+- Solution URL: https://github.com/elemenceOR/product-preview-card
+- Live Site URL: https://bejewelled-gingersnap-bbedbf.netlify.app/
 
 ## My process
 
